@@ -22,5 +22,7 @@ Após fazer este processo verifiquei e estava ok no Github
 
 Alterei o arquivo, adicionei e fiz um novo commit e dei um push para o Github novamente.
 
+Alterei o README.md diretamente no Github e fiz o git clone para alinha com o "projeto" da minha máquina.
+
 
 
