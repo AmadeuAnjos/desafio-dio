@@ -10,3 +10,16 @@ git init
 git add . 
 
 4º Fazendo o commit 
+git commit 
+
+Após fazer o processo acima, vou dar um push para o Github
+
+1º git remote add origin git@github.com:AmadeuAnjos/desafio-dio.git
+
+2º git push origin master 
+
+Após fazer este processo verifiquei e estava ok no Github
+
+Alterei o arquivo, adicionei e fiz um novo commit
+
+
