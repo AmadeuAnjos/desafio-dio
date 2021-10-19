@@ -1,0 +1,12 @@
+Iniciando o desafio prático proposto pela Digital Innovation One
+
+1º Criar repositório:
+digitalone
+
+2º Inicalizando o git no repositório:
+git init
+
+3º Adicionar o arquivo para ser "commitado"
+git add . 
+
+4º Fazendo o commit 
