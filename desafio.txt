@@ -20,6 +20,7 @@ Após fazer o processo acima, vou dar um push para o Github
 
 Após fazer este processo verifiquei e estava ok no Github
 
-Alterei o arquivo, adicionei e fiz um novo commit
+Alterei o arquivo, adicionei e fiz um novo commit e dei um push para o Github novamente.
+
 
 
